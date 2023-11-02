@@ -129,3 +129,14 @@ a:not(#current a):hover {
   color: #e6e6e6;
 }
 
+#newsletter .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#newsletter input {
+padding: 4px;
+height: 25px;
+width: 250px;
+}
