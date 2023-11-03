@@ -256,3 +256,13 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+@media (max-width: 375px) {
+  #newsletter {
+    text-align: center;
+  }
+
+  #newsletter button {
+    width: 262px;
+  }
+}
